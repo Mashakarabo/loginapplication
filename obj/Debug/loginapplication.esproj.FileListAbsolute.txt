@@ -1,0 +1,2 @@
+C:\Users\Karabo_Masha\source\repos\LoginApplication\LoginApplication\obj\Debug\loginapplication.esproj.SuggestedBindingRedirects.cache
+C:\Users\Karabo_Masha\source\repos\LoginApplication\LoginApplication\obj\Debug\loginapplication.esproj.CoreCompileInputs.cache
